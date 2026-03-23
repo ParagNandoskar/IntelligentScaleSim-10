@@ -97,4 +97,4 @@ Explore the platform immediately using the pre-configured student account:
 IntelliScaleSim is open for contributions! Feel free to fork the repository and submit pull requests for new features or bug fixes.
 
 ---
-#   I n t e l l i g e n t s c a l e s i m  
+#   I n t e l l i g e n t s c a l e s i m  "# Major_Project-" 
